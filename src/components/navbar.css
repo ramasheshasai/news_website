@@ -1,0 +1,4 @@
+.nav-link:hover {
+    color: #fff; /* Change text color on hover */
+    background-color: rgba(157, 185, 187, 0.936); /* Change background color on hover */
+}
